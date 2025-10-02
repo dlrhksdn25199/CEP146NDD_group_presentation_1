@@ -22,3 +22,4 @@ topic will be this https://www.forbes.com/sites/daveywinder/2025/06/20/16-billio
 - Summary & script     : Vipishan
 - Build PPTX & script  : Taishi
 
+i put names on team roles but we need to help each other out for this. we dont have a lot of time
