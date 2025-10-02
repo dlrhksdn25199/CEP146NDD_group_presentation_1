@@ -16,7 +16,7 @@ topic will be this https://www.forbes.com/sites/daveywinder/2025/06/20/16-billio
 
 
 ## team roles
-- Video Presentation   : Mateo said he'll do
+- Video Presentation   : Mateo
 - Research & summary   : Timothy, Vansh
 - Summary & script     : Vipishan
 - Build PPTX & script  : Taishi
