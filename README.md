@@ -13,3 +13,9 @@
 - Create branches and use pull requests if possible.
 
 topic will be this https://www.forbes.com/sites/daveywinder/2025/06/20/16-billion-apple-facebook-google-passwords-leaked---change-yours-now/
+
+
+Video Presentation   : Mateo said he'll do
+Research & summary   : Timothy, Vansh
+Build PPTX & script  : Taishi
+
