@@ -120,8 +120,7 @@ While the 16-billion-credential leak has drawn widespread attention, several exp
 - [BleepingComputer Article](https://www.bleepingcomputer.com/news/security/16-billion-passwords-leaked/)  
 - [Cybernews Report](https://www.cybernews.com/news/massive-password-leak/)
 
-### 📘 Summary: 16-Billion Credential Leak & Passwordless Authentication
-
+### Short Summary
 In June 2025, over **16 billion login credentials** were exposed across ~30 datasets on the dark web, mainly from **infostealer malware** and **historical data breaches**. Major platforms like **Apple, Google, and Facebook** were not directly breached, but their user credentials were found in aggregated datasets.  
 
 ### Key Risks:
