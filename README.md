@@ -47,9 +47,9 @@ The compromised datasets were primarily composed of:
 
 These credentials were typically stored in a structured format, such as:
 
-(https://www.facebook.com/:jsmith@example.com:Databr3achFUd!)
-(https://www.bank.com/login.php:jsmith:SkyIsFa11ing#)
-(https://x.com/i/flow/login:jsmith@example.com:StayCalmCarryOn)
+- (https://www.facebook.com/:jsmith@example.com:Databr3achFUd!)
+- (https://www.bank.com/login.php:jsmith:SkyIsFa11ing#)
+- (https://x.com/i/flow/login:jsmith@example.com:StayCalmCarryOn)
 
 This structured format facilitates automated attacks, such as credential stuffing, where attackers use stolen credentials to gain unauthorized access to multiple accounts across different platforms.
 
@@ -84,3 +84,24 @@ The exposure of such a vast number of credentials presents several critical risk
 - *Prioritize user education & UX:* Provide guidance toward strong credentials, make secure options the default, and build intuitive flows that don’t frustrate users.  
 
 By proactively implementing these design principles, developers can significantly reduce the impact of credential leaks and strengthen overall system resilience.
+
+### 4. The Transition to Passwordless / Passkeys
+
+The widespread exposure of credentials has highlighted the weaknesses of traditional password-based authentication. In response, both tech companies and academic research are advocating for more secure alternatives:
+
+- **Industry Adoption of Passwordless Sign-In:** Microsoft and other technology companies are promoting *phishing-resistant, passwordless sign-in methods*. These approaches reduce reliance on traditional passwords, which are vulnerable to leaks and attacks.
+
+- **Surge in Passkey Usage:** Bitwarden, a popular password manager, reported a *550% increase in passkey creation* in late 2024. This reflects the growing adoption of passwordless authentication among users and organizations.
+
+- **Organizational Shift Towards Passwordless Authentication:** Organizations are adopting passwordless solutions due to *increasing cyber threats, regulatory pressure, and the risks associated with managing passwords*. This trend helps improve security and user experience.
+
+- **Academic Insights on Passkey Security:** Research shows passkeys are *more secure and user-friendly than traditional Time-Based One-Time Passwords (TOTP)*. Passkeys resist phishing attacks and credential reuse, addressing common vulnerabilities in password-based systems.
+
+- **Implementation Considerations:** Passkeys can be *device-bound* (tied to a single device) or *synced across devices*. Device-bound passkeys offer stronger security, while synced passkeys improve usability. Organizations must balance these trade-offs.
+
+*Sources:*  
+- [Microsoft Blog](https://blogs.microsoft.com/blog/2025/05/15/passwordless/)  
+- [AuthSignal Blog](https://authsignal.com/blog/passkey-adoption)  
+- [arXiv Paper on Passkey Implementation](https://arxiv.org/abs/2508.11928)
+
+
