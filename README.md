@@ -104,4 +104,18 @@ The widespread exposure of credentials has highlighted the weaknesses of traditi
 - [AuthSignal Blog](https://authsignal.com/blog/passkey-adoption)  
 - [arXiv Paper on Passkey Implementation](https://arxiv.org/abs/2508.11928)
 
+### 5. Balanced View & Criticism
 
+While the 16-billion-credential leak has drawn widespread attention, several experts urge a cautious interpretation of the scale:
+
+- **Inflated Numbers:** Some cybersecurity analysts argue that the *16 billion figure is exaggerated* because many of the credentials are duplicates or recycled from older breaches. Therefore, the total number of unique compromised accounts may be lower than initially reported.
+
+- **Data from Older Breaches:** According to BleepingComputer, much of the leaked data does not represent a new breach. Instead, it mostly consists of credentials that have already appeared in previous leaks and are circulating in various combo lists or dark web marketplaces.
+
+- **Demonstrates Systemic Weakness:** Even with possible inflation, the leak highlights the *inherent weaknesses of password-based security*. User behavior, such as password reuse and weak passwords, continues to pose a serious risk, emphasizing the need for stronger authentication methods.
+
+- **Awareness and Response:** The debate around the exact number also underscores the importance of transparency, responsible reporting, and proactive security measures by both companies and end-users. It serves as a reminder for organizations to continuously monitor and improve their security practices.
+
+*Sources:*  
+- [BleepingComputer Article](https://www.bleepingcomputer.com/news/security/16-billion-passwords-leaked/)  
+- [Cybernews Report](https://www.cybernews.com/news/massive-password-leak/)
