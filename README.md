@@ -30,3 +30,10 @@ i put names on team roles but we need to help each other out for this. we dont h
 
 The goal of this project is to research and present a current event in software development: a massive leak of 16 billion usernames and passwords affecting platforms like Apple, Google, and Facebook.  
 We aim to understand the risks, implications for users and developers, and the transition toward password less authentication.
+
+### 1. The 16-Billion Credential Leak: What Happened
+
+In June 2025, researchers uncovered a massive compilation of over **16 billion login credentials**, including usernames and passwords, exposed across approximately 30 datasets on the dark web. These datasets predominantly originated from **infostealer malware** and **historical data breaches**. Notably, major platforms like **Apple, Google, and Facebook** were not directly breached; instead, their user credentials were found in these aggregated datasets.
+
+The data was briefly accessible due to misconfigured servers but was promptly removed upon discovery. Despite the brief exposure, the sheer volume of compromised credentials poses significant risks to users and organizations alike. multiple cybersecurity teams reported that 16 billion usernames and passwords surfaced across ~30 exposed datasets on the dark web.  
+Sources: [Forbes](https://www.forbes.com/sites/daveywinder/2025/06/20/16-billion-apple-facebook-google-passwords-leaked---change-yours-now/), [Malwarebytes](https://www.malwarebytes.com/blog/news/2025/06/billions-of-logins-for-apple-google-facebook-telegram-and-more-found-exposed-online)
