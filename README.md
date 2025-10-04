@@ -23,3 +23,10 @@ topic will be this https://www.forbes.com/sites/daveywinder/2025/06/20/16-billio
 - Build PPTX & script  : Taishi
 
 i put names on team roles but we need to help each other out for this. we dont have a lot of time
+
+# CEP146NDD Group Presentation 1: Mass Credential Exposure: Apple, Google, Facebook Case Study
+
+## Objective
+
+The goal of this project is to research and present a current event in software development: a massive leak of 16 billion usernames and passwords affecting platforms like Apple, Google, and Facebook.  
+We aim to understand the risks, implications for users and developers, and the transition toward password less authentication.
