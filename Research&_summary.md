@@ -91,8 +91,8 @@ While the 16-billion-credential leak has drawn widespread attention, several exp
 - **Awareness and Response:** The debate around the exact number also underscores the importance of transparency, responsible reporting, and proactive security measures by both companies and end-users. It serves as a reminder for organizations to continuously monitor and improve their security practices.
 
 *Sources:*  
-- [BleepingComputer Article](https://www.bleepingcomputer.com/news/security/16-billion-passwords-leaked/)  
-- [Cybernews Report](https://www.cybernews.com/news/massive-password-leak/)
+- [BleepingComputer Article](https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/) 
+- [Cybernews Report](https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/)
 
 ### Short Summary
 In June 2025, over **16 billion login credentials** were exposed across ~30 datasets on the dark web, mainly from **infostealer malware** and **historical data breaches**. Major platforms like **Apple, Google, and Facebook** were not directly breached, but their user credentials were found in aggregated datasets.  
@@ -131,5 +131,5 @@ In June 2025, over **16 billion login credentials** were exposed across ~30 data
 - [Microsoft Blog](https://blogs.microsoft.com/blog/2021/10/28/america-faces-a-cybersecurity-skills-crisis-microsoft-launches-national-campaign-to-help-community-colleges-expand-the-cybersecurity-workforce/)  
 - [AuthSignal Blog](https://authsignal.com/blog/articles/world-passkey-day-the-state-of-passkeys-in-2025)  
 - [arXiv Paper on Passkey Implementation](https://arxiv.org/abs/2508.11928)  
-- [BleepingComputer](https://www.bleepingcomputer.com/news/security/16-billion-passwords-leaked/)  
-- [Cybernews Report](https://www.cybernews.com/news/massive-password-leak/)
+- [BleepingComputer](https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/)
+- [Cybernews Report](https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/)
