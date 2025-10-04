@@ -53,20 +53,34 @@ These credentials were typically stored in a structured format, such as:
 
 This structured format facilitates automated attacks, such as credential stuffing, where attackers use stolen credentials to gain unauthorized access to multiple accounts across different platforms.
 
-### 2. Risks and Implications
+### 2. Risks & Implications
 
 The exposure of such a vast number of credentials presents several critical risks:
 
-- **Credential Stuffing Attacks**: Attackers can use the compromised credentials to attempt unauthorized logins across various platforms, leveraging the tendency of users to reuse passwords.
+- **Credential Stuffing Attacks:** Attackers can use the compromised credentials to attempt unauthorized logins across multiple platforms, taking advantage of users who reuse passwords.  
 
-- **Identity Theft and Fraud**: Access to personal information can lead to identity theft, financial fraud, and other malicious activities.
+- **Identity Theft and Fraud:** Access to personal data can enable identity theft, financial fraud, and other malicious activities.  
 
-- **Phishing Campaigns**: Cybercriminals can craft convincing phishing emails using the exposed data, increasing the likelihood of successful attacks.
+- **Phishing Campaigns:** Cybercriminals may craft highly convincing phishing emails using the exposed data, increasing the likelihood of successful attacks.  
 
-- **Reputational Damage**: Organizations whose users' credentials are found in these datasets may suffer reputational harm, even if they were not directly breached.
+- **Operational Costs:** Companies face significant expenses for breach investigations, regulatory compliance, notifying affected users, and potential compensations.  
 
-- **Operational costs:** Investigation, user notifications, and compensations are expensive.
+- **Public Trust & Reputational Damage:** Even if not directly breached, organizations whose users’ credentials are exposed may lose user trust and face long-term reputational harm.  
 
-- **Public trust & reputational damage:** Users lose confidence in platforms.  
+### 3. Developer & Software Design Implications
 
-Experts emphasize the importance of proactive security measures to mitigate these risks 
+- *Never store passwords in plain text*; always use strong hashing (bcrypt, Argon2) with unique salts.  
+
+- *Implement Multi-Factor Authentication (MFA):* Require users to verify their identity with two or more factors (e.g., authenticator apps, SMS codes, hardware tokens).  
+
+- *Adopt passwordless / passkey technologies:* Transition to authentication methods such as biometrics or cryptographic keys, reducing risks from stolen passwords.  
+
+- *Encourage password managers:* Help users generate and securely store strong, unique credentials for every account.  
+
+- *Use breach-detection APIs:* Integrate services like *Have I Been Pwned* to detect compromised credentials and prompt users to reset them.  
+
+- *Apply secure coding practices:* Validate input, limit login attempts, monitor suspicious activity, secure sessions, and encrypt data both in transit and at rest. 
+ 
+- *Prioritize user education & UX:* Provide guidance toward strong credentials, make secure options the default, and build intuitive flows that don’t frustrate users.  
+
+By proactively implementing these design principles, developers can significantly reduce the impact of credential leaks and strengthen overall system resilience.
