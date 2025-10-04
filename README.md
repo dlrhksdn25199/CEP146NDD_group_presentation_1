@@ -39,3 +39,17 @@ The data was briefly accessible due to misconfigured servers but was promptly re
 
 Some reports cast doubt on the full scale; BleepingComputer notes that the figure may be inflated due to duplicates, but even partial exposure is significant.  
 Sources: [Forbes](https://www.forbes.com/sites/daveywinder/2025/06/20/16-billion-apple-facebook-google-passwords-leaked---change-yours-now/), [Malwarebytes](https://www.malwarebytes.com/blog/news/2025/06/billions-of-logins-for-apple-google-facebook-telegram-and-more-found-exposed-online), [The Guardian](https://www.theguardian.com/technology/2025/jun/21/internet-users-advised-to-change-passwords-after-16bn-logins-exposed)
+The compromised datasets were primarily composed of:
+
+- **85% from infostealer malware**: Malicious software designed to harvest login credentials and other sensitive information from infected devices.
+
+- **15% from historical data breaches**: Credentials leaked from past security incidents involving various platforms.
+
+These credentials were typically stored in a structured format, such as:
+
+(https://www.facebook.com/:jsmith@example.com:Databr3achFUd!)
+(https://www.bank.com/login.php:jsmith:SkyIsFa11ing#)
+(https://x.com/i/flow/login:jsmith@example.com:StayCalmCarryOn)
+
+This structured format facilitates automated attacks, such as credential stuffing, where attackers use stolen credentials to gain unauthorized access to multiple accounts across different platforms.
+
