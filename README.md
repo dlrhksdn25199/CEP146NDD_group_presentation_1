@@ -17,10 +17,9 @@ topic will be this https://www.forbes.com/sites/daveywinder/2025/06/20/16-billio
 
 ## team roles
 - Video Presentation   : Mateo
-- Research & summary   : Timothy, Vansh
-- make README.md       : Vansh
+- Research & summary and make README.md   : Vansh
 - Summary & script     : Vipishan
-- Build PPTX & script  : Taishi
+- Build PPTX & script  : Taishi and Timothy
 
 i put names on team roles but we need to help each other out for this. we dont have a lot of time
 
