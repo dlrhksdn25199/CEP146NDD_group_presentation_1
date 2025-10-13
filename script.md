@@ -2,17 +2,17 @@
 
 ### note: Speaker copy, "Script:" part is the one you speak first, and then talk about "-". If you have any questions about the script | pptx call either one.
 
-### 🎤 Slide 1 – Title 
+### Slide 1 – Title 
 Mass Credential Exposure: Apple, Google, Facebook Case Study
 Group Presentation – CEP146NDD
 Script:
 Welcome everyone. Today, our group will be presenting a case study on one of the largest credential exposures in recent history — involving over 16 billion login credentials. While Apple, Google, and Facebook weren’t directly breached, their users’ data appeared in massive compilations on the dark web. Let’s dive into what happened, why it matters, and how the industry is responding.
 
-### 🎯 Slide 2 – Objective
+### Slide 2 – Objective
 Script:
 Our goal is to examine this major event in software development — the 16-billion credential leak — and understand its broader implications. We’ll explore the risks it poses to users and organizations, the lessons developers can take away, and how the industry is shifting toward passwordless authentication to prevent future incidents.
 
-### 🕵️ Slide 3 – What Happened
+### Slide 3 – What Happened
 Script:
 In June 2025, researchers uncovered a massive trove of login credentials — over 16 billion — spread across roughly 30 datasets on the dark web. Importantly, this wasn’t a single hack. Instead, it was a compilation of stolen data from infostealer malware and older breaches.
 About 85% came from malware that harvested credentials from infected devices, and 15% from historical breaches.
@@ -22,7 +22,7 @@ Even though platforms like Apple, Google, and Facebook weren’t directly compro
 
 This format makes it easy for attackers to automate credential stuffing attacks.
 
-### ⚠️ Slide 4 – Risks & Implications
+### Slide 4 – Risks & Implications
 Script:
 The exposure of billions of credentials creates serious risks:
 - First, credential stuffing — attackers use stolen credentials to try logging into other accounts, especially when users reuse passwords.
@@ -31,7 +31,7 @@ The exposure of billions of credentials creates serious risks:
 - Companies also face operational costs for investigations, compliance, and user notifications.
 - And finally, even if a company wasn’t breached, the appearance of its users’ data can lead to loss of trust and reputational damage.
 
-### 🛠️ Slide 5 – Developer & Design Lessons
+### Slide 5 – Developer & Design Lessons
 Script:
 So what can developers do?
 - Never store passwords in plain text. Use strong hashing algorithms like bcrypt or Argon2, with unique salts.
@@ -41,7 +41,7 @@ So what can developers do?
 - Apply secure coding practices — validate input, encrypt data, limit login attempts, and secure sessions.
 - And finally, educate users through intuitive design that promotes secure behavior by default.
 
-### 🔐 Slide 6 – Passwordless / Passkeys
+### Slide 6 – Passwordless / Passkeys
 Script:
 The industry is moving beyond passwords.
 - Companies like Microsoft and Google are promoting passwordless sign-ins that resist phishing.
@@ -52,14 +52,14 @@ The industry is moving beyond passwords.
 - Synced passkeys improve convenience across devices.
 Organizations must balance these trade-offs as they transition to passwordless systems.
 
-### 🧭 Slide 7 – Criticism & Balanced View
+### Slide 7 – Criticism & Balanced View
 Script:
 Some experts caution that the 16-billion figure may be inflated — many credentials are duplicates or recycled from older breaches.
 But even if the numbers are overstated, the leak still exposes systemic weaknesses in password-based security.
 It highlights poor user habits like password reuse and the need for transparent reporting and ongoing user education.
 Ultimately, it’s a wake-up call for the entire industry.
 
-### ✅ Slide 8 – Summary
+### Slide 8 – Summary
 Script:
 To wrap up:
 - Over 16 billion credentials were exposed — mostly from malware and past breaches.
