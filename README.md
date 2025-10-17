@@ -10,15 +10,11 @@
 - Commit regularly – avoid a single last-minute upload.
 - Create branches and use pull requests if possible.
 
-topic will be this https://www.forbes.com/sites/daveywinder/2025/06/20/16-billion-apple-facebook-google-passwords-leaked---change-yours-now/
-
+### The link to the video can be accessed through here: [video presentation](https://youtu.be/O1_JQNPSpIo)
+#### Topic will be : https://www.forbes.com/sites/daveywinder/2025/06/20/16-billion-apple-facebook-google-passwords-leaked---change-yours-now/
 
 ## team roles
 - Video Presentation   : Mateo
 - Research & summary and make README.md   : Vansh
 - Summary & script     : Vipishan
 - Build PPTX & script  : Taishi and Timothy
-
-i put names on team roles but we need to help each other out for this. we dont have a lot of time
-
-
