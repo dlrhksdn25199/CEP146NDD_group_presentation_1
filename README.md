@@ -5,7 +5,7 @@
 
 > - Team members& roles :
 >  - Video Presentation   : Mateo`Student #110161254`
->  - Research & summary   : Vansh`Student #`
+>  - Research & summary   : Vansh`Student #139106249`
 >  - Summary & script     : Vipishan `Student #104170220`
 >  - Build PPTX & script  : Taishi`Student #`& Timothy`Student #177133212`
 
