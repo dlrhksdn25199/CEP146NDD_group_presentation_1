@@ -11,4 +11,4 @@
 
 #  - Topic summary             ???
 #  - Final question            ???
-# - team members name and student number
+# -  student number
